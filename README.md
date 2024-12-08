@@ -43,7 +43,7 @@ The app provides a simple, text-based interface to compute results for various r
 #### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/root-finder-app.git
+   git clone https://github.com/paularezk3/root-finder-app.git
    cd root-finder-app
    ```
 2. Install dependencies:
