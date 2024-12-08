@@ -63,7 +63,6 @@ Here are some screenshots showcasing the app's interface:
 ![Main Menu](screenshots/main_menu.png)  
 *Main menu with available methods.*   
 
-*(Add more screenshots if needed.)*
 
 ---
 
